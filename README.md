@@ -1,4 +1,6 @@
 # Getting Started
+### `npm install` - install packages
+### `npm run start` - to run the app
 
 The project is available locally on port 3000
 http://localhost:3000
